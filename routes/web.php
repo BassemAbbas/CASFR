@@ -23,4 +23,4 @@ Route::get('/opera',function () {
     return view('pages.opera');
 });
 
-Route::get('/contacts', 'PagesController@contacts');
+
